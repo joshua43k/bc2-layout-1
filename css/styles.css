@@ -1,0 +1,15 @@
+.space {
+  margin: 3em auto;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5.5em;
+}
+
+.nav-links li {
+  padding: 0em 3em;
+  color: #fff;
+  background-color: #000;
+}
